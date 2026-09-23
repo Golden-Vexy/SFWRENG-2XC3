@@ -3,5 +3,5 @@
 
 int main (){
 	puts("Hello World!");
-	return EXIT_SECCESS;
+	return EXIT_SUCCESS
 }
